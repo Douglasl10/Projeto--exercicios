@@ -40,7 +40,7 @@ Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mai
 
 ##Imagem
 
-<img src="https://raw.githubusercontent.com/Douglasl10/Projeto--exercicios/refs/heads/main/img/Captura%20de%20tela%20.png" />
+<img src="https://raw.githubusercontent.com/Douglasl10/Projeto--exercicios/refs/heads/main/img/preview%20.png" />
 
 ## Agradecimentos
 
